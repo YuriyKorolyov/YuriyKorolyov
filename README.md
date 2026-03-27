@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div align="center">
  
 <!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=200&section=header&text=Yuriy%20Korolyov&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=.NET%20%2F%20C%23%20Developer%20%7C%20Russia%20%F0%9F%87%B7%F0%9F%87%BA&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=200&section=header&text=Yuriy%20Korolyov&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=.NET%20%2F%20C%23%20Developer%20%7C%20Russia%20%F0%9F%87%B7%F0%9F%87%BA&descAlignY=68&descSize=18" width="100%"/>
  
 <!-- ANIMATED TYPING TAGLINE -->
 <a href="https://git.io/typing-svg">
